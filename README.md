@@ -21,7 +21,7 @@
 
 ### Screenshots
 
-![screenshot](img/screenshot-1.PNG)
+![screenshot](./img/screenshot-1.PNG)
 
 ### Useful resources
 
