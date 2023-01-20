@@ -26,8 +26,8 @@
 ### Useful resources
 
 Goddard Institute for Space Studies - [Global surface temperature data](https://data.giss.nasa.gov/gistemp/)  
-Chart.js - [JavaScript charting library](https://www.chartjs.org/)
-Chart.js - [Getting started](https://www.chartjs.org/docs/latest/getting-started/)
+Chart.js - [JavaScript charting library](https://www.chartjs.org/)  
+Chart.js - [Getting started](https://www.chartjs.org/docs/latest/getting-started/)  
 
 ## My process
 
@@ -35,14 +35,14 @@ Chart.js - [Getting started](https://www.chartjs.org/docs/latest/getting-started
 
 CSV datafile:
 
-- Load CSV file
-- Parse CSV data
+- Load CSV file  
+- Parse CSV data  
 
 Chart.js library:  
 
-- Import Chart.js by CDN
-- Graph CSV data with Chart.js to HTML Canvas
-- Chart.js styling options
+- Import Chart.js by CDN  
+- Graph CSV data with Chart.js to HTML Canvas  
+- Chart.js styling options  
 
 ### What I learned
 
@@ -58,15 +58,15 @@ Chart.js library:
 
 ### Continued development
 
-- try to graph a different dataset of this web page
-- fetch the current CSV file from NASA API (and trim empty last line)
-- Graphing multiple lines to chart
-- CSS: When increasing the window size: Chart size doesn't change.
+- try to graph a different dataset of this web page  
+- fetch the current CSV file from NASA API (and trim empty last line)  
+- Graphing multiple lines to chart  
+- CSS: When increasing the window size: Chart size doesn't change.  
 
 ## Acknowledgements
 
 This project is based on this really helpful YouTube tutorial: [Tabular Data - Working With Data & APIs in JavaScript](https://www.youtube.com/watch?v=5-ptp9tRApM&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&index=6).  
-Thank you [Coding Train](https://www.youtube.com/@TheCodingTrain). :heart:
+Thank you [Coding Train](https://www.youtube.com/@TheCodingTrain). :heart:  
 
 ## Author
 
