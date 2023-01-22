@@ -31,7 +31,7 @@ Chart.js - [Getting started](https://www.chartjs.org/docs/latest/getting-started
 
 ## My process
 
-### Workflows
+### Workflow
 
 CSV datafile:
 
